@@ -32,13 +32,21 @@ I think we understand by this point that DVWA is very vulnerable to even simple 
 After turning it on if we try our attacks again none of them will work:
 
 ![xss blocked 1](https://github.com/user-attachments/assets/5256e6bf-284c-4edd-8876-e297e03d2d7c)
+
 ![xss blocked 2](https://github.com/user-attachments/assets/705fb139-74b1-45ca-8477-8f7a76d2d730)
+
 ![sql blocked](https://github.com/user-attachments/assets/56f96685-1be1-47f3-b0a5-931baae64c9c)
+
 ![xss blocked 2](https://github.com/user-attachments/assets/705fb139-74b1-45ca-8477-8f7a76d2d730)
+
 ![comm](https://github.com/user-attachments/assets/8bbc4aeb-0230-4a78-b8f5-e474a2689818)
+
 ![xss blocked 2](https://github.com/user-attachments/assets/705fb139-74b1-45ca-8477-8f7a76d2d730)
+
 ![path](https://github.com/user-attachments/assets/4ab33878-3b1b-4bf3-b4eb-a1174116e553)
+
 ![php up](https://github.com/user-attachments/assets/16f8bbcd-8845-4b46-a25e-57a1412c8321)
+
 ![xss blocked 2](https://github.com/user-attachments/assets/705fb139-74b1-45ca-8477-8f7a76d2d730)
 
 
