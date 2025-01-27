@@ -25,7 +25,7 @@ Path traversal is also possible on DVWA:
 
 ![path traversal](https://github.com/user-attachments/assets/897f722b-5888-49fc-bc20-6195d209f280)
 
-I think we understand by this point that DVWA is very vulnerable to even simple attacks. Now let's make it more secure by utilizing a WAF. I used modsecurity and here is the guide I followed for the installation: [https://www.linode.com/docs/guides/securing-apache2-with-modsecurity/]. After installing the WAF in important thing is to activate it in /etc/modsecurity/modsecurity.conf by turning SecRuleEngine to On like the following screenshot:
+I think we understand by this point that DVWA is very vulnerable to even simple attacks. Now let's make it more secure by utilizing a WAF. I used modsecurity and here is the guide I followed for the installation: [https://www.linode.com/docs/guides/securing-apache2-with-modsecurity/]. After installing the WAF, the important thing is to activate it in /etc/modsecurity/modsecurity.conf by turning SecRuleEngine to On like the following screenshot:
 
 ![sec rules on](https://github.com/user-attachments/assets/9b8ebb77-1e99-42a1-8bca-9a230d2c4f30)
 
